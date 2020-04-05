@@ -8,7 +8,7 @@ Type in Morse code by repeatedly slamming your laptop shut
 * Use a battle-tested encoding trusted by pilots, submariners, and amateur radio nerds
 * Type at 100+ words per ~~minute~~ hour
 * Innovative [SIGTERM-based concurrency control](https://github.com/veggiedefender/open-and-shut/blob/master/morse_code_close.sh#L4). Semaphores *who??*
-* Closing your laptop now types the letter E instead of locking
+* Closing your laptop now types the letter T instead of locking
 
 ## Setup
 ### Dependencies
